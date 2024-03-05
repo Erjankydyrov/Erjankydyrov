@@ -21,7 +21,7 @@
 <hr>
 
 <h3 align="center">My GitHub Stats</h3>
-<p align="center"><a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-stats.vercel.app/api?username=Erjankydyrov&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=617087&bg_color=0f172a&theme=great-gatsby" /></a>
-<a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Erjankydyrov&stroke=64748b&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-<a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erjankydyrov&title_color=ef4444&icon_color=ef4444&text_color=617087&bg_color=0f172a&langs_count=8&layout=compact&theme=great-gatsby&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Erjankydyrov&stroke=64748b&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-stats.vercel.app/api?username=Erjankydyrov&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=617087&bg_color=0f172a&theme=great-gatsby" /></a></p>
+<p align="center"><a href="http://www.github.com/Erjankydyrov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erjankydyrov&title_color=ef4444&icon_color=ef4444&text_color=617087&bg_color=0f172a&langs_count=8&layout=compact&theme=great-gatsby&hide_border=true" /></a></p>
 
